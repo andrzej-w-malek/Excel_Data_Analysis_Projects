@@ -1,4 +1,4 @@
-# Excel Data AnalysisAnaAawawaerterwewedaqwaaw Projects
+# Excel Data Analysis Projects
 
 This repository contains two projects focused on data job postings from 2023. The projects are based on this [Excel Course](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/main).
 

@@ -1,6 +1,6 @@
 # Excel Data Analysis Projects
 
-This repository contains two projects focused on data job postings from 2023. The projects are based on this [Excel Course](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/main).
+This repository contains two projects focused on data job postings from 2023. The projects are based on this [Excel Course](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/main) (most importantly thats where the data is sourced from).
 
 ## Salary Dashboard
 
